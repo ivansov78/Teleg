@@ -1,6 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api');
 
-// Вставь сюда свой токен бота
+// 6tgQ5eOB41AvuHnlclHNocDz99aWWUM/getWebhookInfo
 const token = process.env.TOKEN;
 
 if (!token) {
